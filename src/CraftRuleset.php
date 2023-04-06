@@ -26,7 +26,7 @@ class CraftRuleset implements RulesetInterface, TemplateResolverAwareInterface
     {
         $configurator = new RulesetConfigurator();
         $configurator->setTwigMajorVersion($this->twigMajorVersion);
-        $builder = new CustomRulesetBuilder($configurator);
+        $builder = new CraftRulesetBuilder($configurator);
 
         return [
             new Rule\RegEngineRule(Violation::SEVERITY_ERROR, $builder->build()),
