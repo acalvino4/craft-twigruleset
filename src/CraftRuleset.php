@@ -10,7 +10,7 @@ use FriendsOfTwig\Twigcs\TemplateResolver\NullResolver;
 use FriendsOfTwig\Twigcs\TemplateResolver\TemplateResolverInterface;
 use FriendsOfTwig\Twigcs\Validator\Violation;
 
-class CustomRuleset implements RulesetInterface, TemplateResolverAwareInterface
+class CraftRuleset implements RulesetInterface, TemplateResolverAwareInterface
 {
     private int $twigMajorVersion;
 

@@ -1,7 +1,7 @@
 {
     "name": "acalvino4/craft-twig-ruleset",
     "description": "A twig coding style ruleset for the Craft community",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "homepage": "https://github.com/acalvino4/craft-twigruleset",
     "license": "MIT",
     "autoload": {

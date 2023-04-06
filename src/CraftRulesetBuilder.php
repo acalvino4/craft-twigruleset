@@ -4,7 +4,7 @@ namespace Acalvino4\CraftTwigRuleset;
 
 use FriendsOfTwig\Twigcs\RegEngine\RulesetBuilder;
 
-class CustomRulesetBuilder extends RulesetBuilder
+class CraftRulesetBuilder extends RulesetBuilder
 {
     /**
      * An override of a parent function for the purpose of adding an allowed operator
