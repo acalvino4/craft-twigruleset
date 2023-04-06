@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- Add README.md contents
+
+## 1.0.2 - 2023-04-06
+
+- Fix incorrect class name
+
 ## 1.0.1 - 2023-04-06
 
 - Fix namespacing
