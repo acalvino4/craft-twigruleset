@@ -1,5 +1,7 @@
 <?php
 
+namespace Acalvino4\CraftTwigRuleset;
+
 use FriendsOfTwig\Twigcs\RegEngine\RulesetBuilder;
 
 class CustomRulesetBuilder extends RulesetBuilder

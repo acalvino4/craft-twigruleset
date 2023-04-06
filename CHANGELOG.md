@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 1.0.1 - 2023-04-06
+
+- Fix namespacing
+
 ## 1.0.0 - 2023-04-06
 
 - Added ruleset that extends from the official twigcs ruleset

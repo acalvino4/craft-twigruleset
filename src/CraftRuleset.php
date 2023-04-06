@@ -1,5 +1,7 @@
 <?php
 
+namespace Acalvino4\CraftTwigRuleset;
+
 use FriendsOfTwig\Twigcs\RegEngine\RulesetConfigurator;
 use FriendsOfTwig\Twigcs\Rule;
 use FriendsOfTwig\Twigcs\Ruleset\RulesetInterface;
