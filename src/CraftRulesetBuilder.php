@@ -1,6 +1,6 @@
 <?php
 
-namespace Acalvino4\CraftTwigRuleset;
+namespace acalvino4\crafttwigruleset;
 
 use FriendsOfTwig\Twigcs\RegEngine\RulesetBuilder;
 
